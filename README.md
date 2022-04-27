@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pritiS28
-- 👀 I’m interested in iOS development
+- 👀 I’m interested in iOS/MAC OS development and have 5 years of experience in iOS APP Development,further improving.
 - 🌱 I’m currently learning swift UI and interested in learning flutter.
 - 📫 you can reach me through sutharpriti28@gmail.com
 
